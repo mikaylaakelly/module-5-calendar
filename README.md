@@ -15,4 +15,4 @@
 
 <br>Starter Code:https://github.com/coding-boot-camp/crispy-octo-meme
 
-screenshot: <img src="/screenshot/Screenshot (6).png">
+screenshot: <img src="/screenshot/Screenshot (7).png">
